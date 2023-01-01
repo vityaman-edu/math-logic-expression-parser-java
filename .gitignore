@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+*.iml
+
+target/
+dist/
+**/antlr/generated/*
